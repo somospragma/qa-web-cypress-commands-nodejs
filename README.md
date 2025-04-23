@@ -74,7 +74,7 @@ Test suite for the Pragma archetype on the Automation Exercise web platform, arc
 **6** | `POST To Search Product without search_product parameter` | Validate missing search parameter | 🔴
 **7** | `POST To Verify Login with valid details` | Authenticate user with correct credentials | 🔴
 **8** | `POST To Verify Login without email parameter` | Validate missing email parameter in login request | 🔴
-**9** | `DELETE To Verify Login` | Handle unsupported DELETE on login endpoint` | 🔴
+**9** | `DELETE To Verify Login` | Handle unsupported DELETE on login endpoint | 🔴
 **10** | `POST To Verify Login with invalid details` | Handle authentication failure for invalid credentials | 🔴
 **11** | `POST To Create/Register User Account` | Register a new user | 🟢
 **12** | `DELETE METHOD To Delete User Account` | Delete an existing user account | 🟢
