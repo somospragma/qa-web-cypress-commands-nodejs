@@ -260,10 +260,10 @@ stages:
         npx cypress run --browser $(browser) --spec "cypress/e2e/E2ERouteRunner"
       displayName: 'Execute E2E tests'
       env:
-        CYPRESS_URL: $(CYPRESS_URL)
-        CYPRESS_USER: $(CYPRESS_USER)
-        CYPRESS_EMAIL: $(CYPRESS_EMAIL)
-        CYPRESS_PASSWORD: $(CYPRESS_PASSWORD)
+        URL: $(URL)
+        USER: $(USER)
+        EMAIL: $(EMAIL)
+        PASSWORD: $(PASSWORD)
 ```
 ## Support
 
