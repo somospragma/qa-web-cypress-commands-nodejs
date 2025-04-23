@@ -1,0 +1,22 @@
+{
+  "name": "qa-web-cypress-commands-nodejs",
+  "version": "1.0.0",
+  "description": "Test suite for the Pragma archetype on the Automation Exercise web platform",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --browser chrome",
+    "cy:spec": "cypress run --browser chrome --spec"
+  },
+  "author": "Juan Carlos Herazo Plazas",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.10.0"
+  },
+  "devDependencies": {
+    "cypress-fail-fast": "^7.1.1",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "dotenv-cli": "^7.4.2",
+    "typescript": "^5.4.5"
+  }
+}
