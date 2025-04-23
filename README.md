@@ -26,7 +26,7 @@
 
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](cypress/downloads/practice_exercise_for_archetype_commands.cy.ts.gif)
 
 ## Test Structure
 Test suite for the Pragma archetype on the Automation Exercise web platform, architected using the Command design pattern. Critical test cases are implemented and executed with the Cypress framework.
