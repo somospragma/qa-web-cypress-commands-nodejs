@@ -257,7 +257,7 @@ stages:
       displayName: 'Install dependencies'
     
     - script: |
-        npx cypress run --browser $(browser) --spec "cypress/e2e/services/create-service.cy.ts"
+        npx cypress run --browser $(browser) --spec "cypress/e2e/E2ERouteRunner"
       displayName: 'Execute E2E tests'
       env:
         CYPRESS_URL: $(CYPRESS_URL)
