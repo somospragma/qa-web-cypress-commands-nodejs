@@ -113,7 +113,7 @@ The project can be executed locally, used as a practice environment and adopted 
 
 ## 📁 Access to the project
 
-- [Azure DevOps hosted project](https://pragmatranser.visualstudio.com/Transer/_git/transer-test-web)
+- [Github SomosPragma](https://github.com/somospragma/qa-web-cypress-commands-nodejs.git)
 
 ### Cloning the project from the command terminal
 
