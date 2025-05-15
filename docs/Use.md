@@ -1,0 +1,2 @@
+## Use
+The project can be executed locally, used as a practice environment and adopted as a base template for the implementation of new developments in Pragma accounts that require automation following this design pattern.
